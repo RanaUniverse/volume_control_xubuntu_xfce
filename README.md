@@ -11,3 +11,10 @@ echo $VOLUME
 
 # Why This repo.
 In keyboard i normally cannot exceed 100% volume so i think to take a script to control with the volume over 100%.
+
+# Scripts To copy this
+
+```
+cp -rv ./volume_control_scripts/
+ ~/.apps_and_softwares/scripts_for_shortcuts/
+```
