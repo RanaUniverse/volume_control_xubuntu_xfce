@@ -18,3 +18,9 @@ In keyboard i normally cannot exceed 100% volume so i think to take a script to 
 cp -rv ./volume_control_scripts/
  ~/.apps_and_softwares/scripts_for_shortcuts/
 ```
+
+
+# Some Looks 
+
+![image](https://github.com/user-attachments/assets/2d636e1d-be19-4ef3-a198-ae5addd5ded8)
+This is interesting to have control over the scripts using some shortcut key combinaion.
